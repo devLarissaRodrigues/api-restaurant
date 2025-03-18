@@ -10,3 +10,5 @@ class TablesSessionsController {
         }
     }
 }
+
+export { TablesSessionsController } 
